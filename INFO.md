@@ -1,4 +1,4 @@
 git is awesome!
 test
 experiment with amend
-new data
+experiment with git commit -i
