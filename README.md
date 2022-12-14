@@ -1,2 +1,2 @@
-No code No pain
+MAIN RULE: No code No pain
 experiment with amend
